@@ -28,7 +28,7 @@ both of them points object into another object which using this command let you 
 //username --> which is a string
 //email --> which is a string
 //getUsername --> which is a function that returns the current object's username property. *Don't use 'user' instead use the 'this' keyword*
-
+//
 //Code Here
 var user = {
   username: 'Kevin',
